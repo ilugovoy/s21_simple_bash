@@ -50,11 +50,11 @@ s21_grep позволяет искать и выводить строки, со�
 
 ## Сборка
 
-### s21_cat  
 ```
 $ git clone https://github.com/ilugovoy/s21_simple_bash_utils.git 
 ```
 
+### s21_cat  
 ```
 $ cd s21_SimpleBashUtils/src/cat  
 $ make test
